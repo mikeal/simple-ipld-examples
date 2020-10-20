@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@ipld/dag-cbor": "^2.0.2",
+    "multiformats": "^4.2.0"
+  },
+  "name": "simple-ipld-examples",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "make-tree-test.js",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeal/simple-ipld-examples.git"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/mikeal/simple-ipld-examples/issues"
+  },
+  "homepage": "https://github.com/mikeal/simple-ipld-examples#readme",
+  "description": ""
+}
